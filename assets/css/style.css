@@ -156,6 +156,7 @@ h1 {
     background-color: #777777;
     background-image: url("../images/erik-mclean-C3T8KTZxTFM-unsplash.jpg");
     background-size: cover;
+    background-position: center;
     width: 285px;
     height: 285px;
     margin: 20px;
@@ -176,6 +177,7 @@ h1 {
     background-color: #777777;
     background-image: url("../images/sara-kurfess-6lcT2kRPvnI-unsplash.jpg");
     background-size: cover;
+    background-position: center;
     width: 285px;
     height: 285px;
     margin: 20px;
@@ -186,6 +188,7 @@ h1 {
     background-color: #777777;
     background-image: url("../images/marcus-wallis-R1qHDAEnCmc-unsplash.jpg");
     background-size: cover;
+    background-position: center;
     width: 285px;
     height: 285px;
     margin: 20px;
