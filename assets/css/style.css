@@ -47,29 +47,37 @@ a {
 
 .about {
     position: fixed;
+    text-align: center;
     top: 0px;
     left: 790px;
     background-color: #ffffff;
     width: 50px;
-    padding: 19px;
+    padding: 0px 19px 0px 19px;
+    margin: 19px 0px 19px 0px;
+    border-right: 1px solid #cccccc;
 }
 
 .portfolio {
     position: fixed;
+    text-align: center;
     top: 0px;
     left: 880px;
     background-color: #ffffff;
     width: 50px;
-    padding: 19px;
+    padding: 0px 19px 0px 19px;
+    margin: 19px 0px 19px 0px;
 }
 
 .contact {
     position: fixed;
+    text-align: center;
     top: 0px;
     left: 980px;
     background-color: #ffffff;
     width: 50px;
-    padding: 19px;
+    padding: 0px 19px 0px 19px;
+    margin: 19px 0px 19px 0px;
+    border-left: 1px solid #cccccc;
 }
 
 .header-border {
@@ -87,6 +95,7 @@ body {
     background-size: auto;
     background-repeat: repeat;
     z-index: -2;
+    object-position: center;
 }
 
 .mainportfolio {
@@ -112,7 +121,7 @@ body {
 .maincontact {
     background-color: #ffffff;
     width: 960px;
-    height: 500px;
+    height: 430px;
     margin: 100px 100px 50px 100px;
     border-color: #dddddd;
     border-radius: 1px;
@@ -225,11 +234,13 @@ button {
 }
 
 p {
-    padding: 20px;
+    padding: 10px;
+    line-height: 30px;
 }
 
 .pcontact {
     padding-bottom: 5px;
+    margin-left: 10px;
 }
 
 h2 {
