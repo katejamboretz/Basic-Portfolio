@@ -21,21 +21,23 @@
         
     <div class="background">
         <div class = "maincontact">
-            <h1>Contact</h1>
-            <div class="line"></div>
-            <p class="pcontact"> 
-                Name
-            </p>
-            <input type="text" placeholder="John Smith" class="name">
-            <p class="pcontact"> 
-                Email
-            </p>
-            <input type="text" placeholder="example@gmail.com" class="email">
-            <p class="pcontact">
-                Message
-            </p>
-            <textarea class="message"></textarea>
-            <button>Submit</button>
+            <form method="POST" action="mailto:kejamboretz@dons.usfca.edu" enctype="text/plain">
+                <h1>Contact</h1>
+                <div class="line"></div>
+                    <p class="pcontact"> 
+                        Name
+                    </p>
+                <input type="text" placeholder="John Smith" class="name" name="name">
+                <p class="pcontact"> 
+                    Email
+                </p>
+                <input type="text" placeholder="example@gmail.com" class="email" name="mail">
+                <p class="pcontact">
+                    Message
+                </p>
+                <textarea class="message" name="message"></textarea>
+                <input class="button" type="submit" value="Send">
+            </form>
         </div>
     </div>
 
