@@ -7,6 +7,7 @@ A portfolio website created to mimic images provided as part of a UC Berkeley Ex
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - HyperText Markup Language used for structure
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Cascading Style Sheets used for styling
 - [Unsplash Photos](https://unsplash.com) - internet source for photos
+- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - nice images and patterns for website backgrounds
 
 ## Authors
 
