@@ -2,6 +2,10 @@
 
 A portfolio website created to mimic images provided as part of a UC Berkeley Extension assignment. The website consists of an 'About' page with a picture and description, a 'Portfolio' page with links to projects as well as a 'Contact' page with links to a personal resume and LinkedIn account.
 
+## Deployed Website Link
+
+[Portfolio](https://katejamboretz.github.io/Basic-Portfolio/)
+
 ## Built With
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - HyperText Markup Language used for structure
